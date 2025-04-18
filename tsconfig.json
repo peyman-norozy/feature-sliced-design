@@ -1,0 +1,14 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",  // or "./src" if you want to avoid prefixing with "src"
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+
+}
