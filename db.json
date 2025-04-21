@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "123",
+      "email": "test@example.com",
+      "password": "password"
+    }
+  ],
+  "articles": [
+    [
+      {
+        "id": 1,
+        "title": "Introduction to JavaScript",
+        "body": "JavaScript is a versatile language used primarily for web development."
+      },
+      {
+        "id": 2,
+        "title": "Understanding React",
+        "body": "React is a JavaScript library for building user interfaces, maintained by Facebook."
+      },
+      {
+        "id": 3,
+        "title": "Getting Started with Node.js",
+        "body": "Node.js allows you to run JavaScript on the server side and build scalable network applications."
+      },
+      {
+        "id": 4,
+        "title": "What is an API?",
+        "body": "An API (Application Programming Interface) allows different software systems to communicate with each other."
+      },
+      {
+        "id": 5,
+        "title": "Benefits of TypeScript",
+        "body": "TypeScript adds static typing to JavaScript, making it easier to catch errors early in development."
+      },
+      {
+        "id": 6,
+        "title": "CSS Flexbox Guide",
+        "body": "Flexbox is a layout model in CSS that makes it easier to design flexible responsive layout structures."
+      },
+      {
+        "id": 7,
+        "title": "Responsive Web Design",
+        "body": "Responsive design ensures that web pages look good on all devices, from desktops to smartphones."
+      },
+      {
+        "id": 8,
+        "title": "Using Git for Version Control",
+        "body": "Git is a distributed version control system that helps developers collaborate and track changes in their code."
+      },
+      {
+        "id": 9,
+        "title": "Understanding RESTful APIs",
+        "body": "RESTful APIs follow a set of rules for creating web services that are scalable and easy to use."
+      },
+      {
+        "id": 10,
+        "title": "Deploying Applications with Docker",
+        "body": "Docker allows you to package applications into containers, making deployment more consistent and efficient."
+      }
+    ]
+  ]
+}
