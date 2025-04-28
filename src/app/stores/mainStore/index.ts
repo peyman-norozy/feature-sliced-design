@@ -1,4 +1,4 @@
-import { mainStore, AppDispatch, RootState } from "./mainStore"
+import { mainStore, AppDispatch, RootState } from "./mainStore";
 
 export type { RootState, AppDispatch };
-export { mainStore } ;
+export { mainStore };
